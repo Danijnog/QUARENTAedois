@@ -6,7 +6,7 @@ Aqui, você encontrará os códigos referentes aos vídeos do canal QUARENTAedoi
 - YouTube: [QUARENTAedois](https://www.youtube.com/@quarentae_dois)
 
 ## 📩 Contato
-- E-mail: [danielnjunq@gmail.com]
+- E-mail: danielnjunq@gmail.com
 
 ## 📜 Licença
 Este repositório está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
